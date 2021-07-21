@@ -46,7 +46,7 @@ h3{
 .nav-link{
   font-size: 1.2rem;
   font-family: 'Montserrat';
-  font-weight: 200;
+  font-weight: 400;
   color: #fff;
 }
 .navbar-brand{
@@ -121,7 +121,7 @@ h3{
   /* XXX: cta */
 
 #cta{
-  
+
   text-align: center;
 }
 .quote{
